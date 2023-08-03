@@ -3,12 +3,12 @@
     "id": 1,
     "Author": "Андрей Платонов",
     "Title": "Юшка",
-    "URL": "https://artlobmh.github.io/NovelThread_API/%D0%AE%D1%88%D0%BA%D0%B0.txt"
+    "TextURL": "https://artlobmh.github.io/NovelThread_API/%D0%AE%D1%88%D0%BA%D0%B0.txt"
   },
   {
     "id": 2,
     "Author": "Ричард Семашков",
     "Title": "Стиралка",
-    "URL": "https://artlobmh.github.io/NovelThread_API/%D0%A1%D1%82%D0%B8%D1%80%D0%B0%D0%BB%D0%BA%D0%B0.txt"
+    "TextURL": "https://artlobmh.github.io/NovelThread_API/%D0%A1%D1%82%D0%B8%D1%80%D0%B0%D0%BB%D0%BA%D0%B0.txt"
   }
 ]
